@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Majesties letter to both Houses of Parliament, dated at New-Castle, the 10th of June, 1646 together with His Majesties warrant to the governours of Oxford, and all other his garrisons within this kingdome, to quit the same upon honourable tearmes.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B19022</idno><idno type="EEBO-CITATION">18850425</idno>
+  <idno type="VID">205407</idno>
+  <idno type="EEBO-PROQUEST">2248570503</idno>
+  
+            <idno type="STC">Wing C2401</idno>
+            <idno type="OCLC">18850425</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B19022)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205407)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1664:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Majesties letter to both Houses of Parliament, dated at New-Castle, the 10th of June, 1646 together with His Majesties warrant to the governours of Oxford, and all other his garrisons within this kingdome, to quit the same upon honourable tearmes.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Leonard Lichfield ...,</publisher>
+                  <pubPlace>Oxford :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:205407:1"/>
+            <p>HIS MAJESTIES LETTER TO Both Houses of PARLIAMENT, Dated at NEW-CASTLE, the 10<seg rend="sup">th</seg> of <hi>June,</hi> 1646.</p>
+            <p>Together with <hi>HIS MAJESTIES</hi> Warrant to the Governours of OXFORD, and all other His Gar<g ref="char:EOLhyphen"/>risons within this Kingdome, to quit the same upon Honou<g ref="char:EOLhyphen"/>rable Tearmes.</p>
+            <p>
+               <hi>OXFORD,</hi> Printed by <hi>Leonard Lichfield,</hi> Printer to <hi>the Vniversity.</hi> 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:205407:2"/>
+            <pb n="1" facs="tcp:205407:2"/>
+            <opener>
+               <signed>CHARLES R.</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">H</seg>IS MAjESTY looking with griefe of Heart up<g ref="char:EOLhyphen"/>on the sad sufferings of His People in His three Kingdoms for some years past, and being afflicted with their Distresses and unquiet Condi<g ref="char:EOLhyphen"/>tion, through the Distractions about <hi>Religion,</hi> the keeping of Forces on foot in the Fields and Garrisons, the not satisfying the <hi>Pub<g ref="char:EOLhyphen"/>lique Debts,</hi> and the feares of the further Effusion of Bloud by the Continuance of
+<pb n="2" facs="tcp:205407:3"/> an Unnaturall Warre in any of these King<g ref="char:EOLhyphen"/>domes, or by Renting or Dividing these Kingdomes so happily united; And ha<g ref="char:EOLhyphen"/>ving sent a Gracious <hi>Message</hi> unto both Hou<g ref="char:EOLhyphen"/>ses of Parliament, and the Commissioners of the Parliament of <hi>Scotland,</hi> expressing the necessary Causes of His comming from <hi>Oxford</hi> unto the <hi>Scottish</hi> Army, (without any intention to make a Division, where He is in Freedome, and Right Capacity to settle a true <hi>Peace</hi>) and containing such Offers as He conceived would have been accepted, with a generall Clause of complying with their Desires; And being impatient of de<g ref="char:EOLhyphen"/>layes, and not acquainted with the particu<g ref="char:EOLhyphen"/>lars which may give Contentment to them, His MAjESTY doth earnestly desire, That the Propositions of <hi>Peace</hi> so often promised, and so much expected, may be speedily sent unto Him, That upon Consideration of them, He may apply Himselfe to give such satisfaction, as may be the Foundation of a firme Peace. And for the better and more speedy attaining thereto, His MAjESTY
+<pb n="3" facs="tcp:205407:3"/> doth further propound, That He may come to <hi>London</hi> with <hi>Safety, Freedom,</hi> and <hi>Honour,</hi> where He Resolves to Comply with His Houses of Parliament in every thing which may be most for the good of His Subjects, and perfect what remaines for setling both Kingdomes and People in a happy Condi<g ref="char:EOLhyphen"/>tion; Being likewise most confident, That they, according to their reiterated <hi>Declara<g ref="char:EOLhyphen"/>tions,</hi> and <hi>Solemne Protestations,</hi> will be zea<g ref="char:EOLhyphen"/>lous in the maintenance of His <hi>Honour,</hi> and <hi>Just</hi> and <hi>Lawfull Rights.</hi> And His MAjES<g ref="char:EOLhyphen"/>TY desires the Houses of Parliament, To disburthen the Kingdome of all <hi>Forces</hi> and <hi>Garrisons</hi> in their power, except such as, be<g ref="char:EOLhyphen"/>fore these unhappy Times, have been main<g ref="char:EOLhyphen"/>tain'd for the necessary defence and safety of this Kingdome; So He is willing forth<g ref="char:EOLhyphen"/>with to Disband all His <hi>Forces</hi> and <hi>Garrisons</hi> within the same, as the inclosed <hi>Order</hi> here<g ref="char:EOLhyphen"/>with sent will evidence. And if upon these Offers His MAjESTY shall have such sa<g ref="char:EOLhyphen"/>tisfaction as He may be confident a firme <hi>Peace</hi> shall ensue thereon, His MAjESTY
+<pb n="4" facs="tcp:205407:4"/> will then give Order for His Sonne the PRINCE his present Returne.</p>
+            <closer>
+               <dateline>
+                  <hi>Newcastle,</hi>
+                  <date>the 10<seg rend="sup">th</seg> of <hi>June,</hi> 1646.</date>
+               </dateline>
+            </closer>
+            <argument>
+               <p>
+                  <hi>For the Speaker of the House of Peeres</hi> pro tempore, <hi>to be Communicated to the Lords and Commissioners Assembled in the Parliament of</hi> England <hi>at</hi> Westmin<g ref="char:EOLhyphen"/>ster, <hi>and the Commissioners of the Parlia<g ref="char:EOLhyphen"/>ment of</hi> Scotland.</p>
+            </argument>
+         </div>
+         <div type="letter">
+            <pb n="5" facs="tcp:205407:4"/>
+            <opener>
+               <signed>CHARLES R.</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">H</seg>Aving Resolved to Comply with the De<g ref="char:EOLhyphen"/>sires of Our Parlia<g ref="char:EOLhyphen"/>ment in every thing which may be for the good of Our Sub<g ref="char:EOLhyphen"/>jects, and leave no meanes unassayed for removing all Dif<g ref="char:EOLhyphen"/>ferences amongst Ʋs. Therefore We have thought fit, the more to Evidence the Reality of Our Intentions of setling a happy and firme Peace, to Require
+<pb n="6" facs="tcp:205407:5"/> you, upon Honourable Termes, to quit those Townes, Castles, and Forts, in<g ref="char:EOLhyphen"/>trusted to <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ou by Ʋs, and to disband all the Forces under your severall Com<g ref="char:EOLhyphen"/>mands.</p>
+            <closer>
+               <dateline>
+                  <hi>Newcastle,</hi>
+                  <date>the <hi>10<seg rend="sup">th</seg>
+                     </hi> of <hi>June, 1646.</hi>
+                  </date>
+               </dateline>
+               <salute>To Our Trusty and Wel-beloved
+<list>
+                     <item>
+                        <hi>Sir</hi> Tho: Glenham.</item>
+                     <item>
+                        <hi>Sir</hi> Tho: Tildesly.</item>
+                     <item>
+                        <hi>Colon.</hi> H: Washington.</item>
+                     <item>
+                        <hi>Colon.</hi> Tho: Blagg.</item>
+                  </list>
+                  <hi>Governours of our Citties and Townes of</hi> Oxford, Lichfield, Worcester, <hi>and</hi> Wallingford. <hi>And all other Commanders of any Townes, Castles, and Forts in Our Kingdome of</hi> Eng<g ref="char:EOLhyphen"/>land.</salute>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
